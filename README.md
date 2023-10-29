@@ -71,7 +71,7 @@ If you want to get in touch about anything, whether it's a question, a proposal 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   
-<a href="leonardovsestudos@gmail.com?subject=Assunto do Email&body=Corpo do email">
+<a href="malito:leonardovsestudos@gmail.com?subject=Assunto do Email&body=Corpo do email">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
 </a>
 
