@@ -18,13 +18,17 @@
 </div>
   
 
-<dl>
-    <div align="center">𝙉𝙖𝙢𝙚:</div>
-    <dd align="center">Leonardo</dd>
-</dl>
+<div align="center">
+    <div>𝙉𝙖𝙢𝙚:</div>
+    <div>Leonardo</div
+    <br>
+    <div>𝙃𝙤𝙢𝙚 𝙘𝙤𝙪𝙣𝙩𝙧𝙮:</div>
+    <div>Brazil</div>
+  <br>
+</div>
 
-<p align="center">I'm from Brazil<br><br> I work as a Software Technical Support Specialist <br>
-<p>📚 Currently, my learning is focused on Infrastructure as Code, exploring aspects of **DevOps** such as: cloud computing, operating systems, networks and information security. I am particularly interested in deepening my understanding of process automation and optimization in production environments.<p/> 
+<p align="center"> I work as a Software Technical Support Specialist <br>
+<p>📚 Currently, my learning is focused on Infrastructure as Code, exploring aspects of DevOps such as: cloud computing, operating systems, networks and information security. I am particularly interested in deepening my understanding of process automation and optimization in production environments.<p/> 
 <br>- ⚡ In my free time I like to read, watch documentaries, animations (among other audiovisual content) and create authorial projects. As well as listening to good music :) </p>
 
 ###
