@@ -14,7 +14,7 @@
 ###
     
   <div align="center">
-    <img src="https://pt.bloggif.com/tmp/283d5519bc1ba21d632f21fb72603216/text.gif?1701038882">
+    <img src="">
 </div>
   
 
