@@ -28,7 +28,8 @@
 </div>
 
 <p align="center"> I work as a Software Technical Support Specialist <br>
-<p>📚 Currently, my learning is focused on Infrastructure as Code, exploring aspects of DevOps such as: cloud computing, operating systems, networks and information security. I am particularly interested in deepening my understanding of process automation and optimization in production environments.<p/> 
+<p>📚 I am a Computer Engineering student focusing on software development. I am currently expanding my knowledge in end-to-end development and software modeling with Artificial Intelligence. I am dedicated to mastering these areas to create innovative solutions and optimize complex processes, leveraging emerging technologies to their fullest potential.
+<p/> 
 <br>- ⚡ In my free time I like to read, watch documentaries, animations (among other audiovisual content) and create authorial projects. As well as listening to good music :) </p>
 
 ###
