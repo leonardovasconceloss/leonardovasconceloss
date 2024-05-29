@@ -27,7 +27,8 @@
   <br>
 </div>
 
-<p align="center"> I work as a Software Technical Support Specialist <br>
+<p align="center"> Currently, I work as a Software Technical Support Specialist.
+ <br>
 <p>📚 I am a Computer Engineering student focusing on software development. I am currently expanding my knowledge in end-to-end development and software modeling with Artificial Intelligence. I am dedicated to mastering these areas to create innovative solutions and optimize complex processes, leveraging emerging technologies to their fullest potential.
 <p/> 
 <br>- ⚡ In my free time I like to read, watch documentaries, animations (among other audiovisual content) and create authorial projects. As well as listening to good music :) </p>
