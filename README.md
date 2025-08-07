@@ -2,14 +2,6 @@
   <img height="260" width=470" src="https://media.giphy.com/media/3o6vY6L5NNr67HQW7S/giphy.gif"/>
 </div>
 
-
-###
-    
-  <div align="center">
-  
-</div>
-  
-
 <div align="center">
     <div>𝙉𝙖𝙢𝙚:</div>
     <div>Leonardo</div
