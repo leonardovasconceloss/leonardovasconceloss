@@ -16,9 +16,9 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor que gosta de ligar produto, engenharia e experimentação. No dia a dia trabalho principalmente com backend, integrações, automações e IA aplicada, usando Python, Node.js, JavaScript e ferramentas web quando a experiência do usuário precisa fazer parte da solução.
+Sou um desenvolvedor que gosta de ligar produto, engenharia e experimentação. No dia a dia trabalho principalmente com backend, integrações, automações e IA aplicada, usando Python, Node.js e JavaScript para criar soluções completas.
 
-Também tenho construído projetos com agentes, MCPs, bots e fluxos de documentação/consulta assistida. Tenho conhecimento suficiente de HTML, CSS, JavaScript e frameworks leves como SolidJS ou Alpine.js para criar interfaces quando o projeto pede uma camada visual.
+Também tenho construído projetos com agentes, MCPs, bots e fluxos de documentação/consulta assistida. Tenho proficiência para atuar em front e back quando o projeto exige uma experiência completa, criando interfaces com HTML, CSS, JavaScript e frameworks como SolidJS ou Alpine.js.
 
 Eletrônica é um hobby que adquiri durante minha passagem pela faculdade de Engenharia. Gosto de experimentar com protótipos, ESP32 e integração entre hardware e software, mas isso entra mais como curiosidade prática do que como meu foco profissional principal.
 
@@ -29,7 +29,7 @@ Parte do meu trabalho mais recente vive em repositórios privados, então este p
 - Desenvolvimento de produtos e integrações no ecossistema Brasil Bitcoin.
 - Backend com Python e Node.js, APIs, automações e serviços internos.
 - IA aplicada: agentes, bots, MCP, automação de issues, GitHub e Discord.
-- Web quando necessário: HTML, CSS, JavaScript, SolidJS/Alpine.js e dashboards simples.
+- Full-stack quando o projeto pede: HTML, CSS, JavaScript, SolidJS/Alpine.js e experiências de usuário para ferramentas internas.
 - Projetos próprios como PrevisaoAI/Oracore, utilitários de contexto e ferramentas para rotina de desenvolvimento.
 - Eletrônica/IoT como hobby: ESP32, Blynk, ponte H, motores DC e prototipagem prática.
 
@@ -57,7 +57,7 @@ Parte do meu trabalho mais recente vive em repositórios privados, então este p
 | --- | --- |
 | Fintech e cripto | Produtos web, APIs, integrações e ferramentas internas no ecossistema Brasil Bitcoin. |
 | IA e automação | Agentes, bots, MCPs, automações com GitHub/Discord e ferramentas de consulta/documentação. |
-| Web quando necessário | Interfaces com HTML, CSS, JavaScript, SolidJS/Alpine.js e dashboards para apoiar ferramentas de backend. |
+| Full-stack | Interfaces com HTML, CSS, JavaScript e SolidJS/Alpine.js conectadas a APIs, automações e ferramentas internas. |
 | Eletrônica como hobby | Experimentos iniciados na faculdade de Engenharia, incluindo ESP32, Blynk, ponte H L298N e motores DC. |
 | Jogos e estudos | Projetos em Python/PgZero, Docker, Django e fundamentos de front-end. |
 
