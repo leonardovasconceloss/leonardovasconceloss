@@ -67,8 +67,13 @@ Atuo em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuind
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
-    <img alt="Resumo de atividade" src="./profile-summary-card-output/github/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg" />
+    <img alt="Linguagens por repositório" src="./profile-summary-card-output/github/1-repos-per-language.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg" />
+    <img alt="Horários de commits" src="./profile-summary-card-output/github/4-productive-time.svg" />
   </picture>
 </p>
