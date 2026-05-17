@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="267" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl2OTRteHYwMmhjOWVkMWNsYjAyaWhoMjBhdzlxODA3YXdjcGV1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
+</div>
+
 # Leonardo Vasconcelos
 
 Desenvolvedor de software focado em **backend, integrações, automações e IA aplicada**.
