@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - ".github/workflows/generate-pacman.yml"
-      - "scripts/annotate-pacman-card.mjs"
+      - "scripts/sync-pacman-calendar.mjs"
 
 permissions:
   contents: write
@@ -28,11 +28,11 @@ jobs:
           github_token: ${{ secrets.PROFILE_STATS_TOKEN }}
           games: pacman
 
-      - name: Add totals and update timestamp
+      - name: Sync blocks with authenticated contribution calendar
         env:
           PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           PROFILE_USERNAME: ${{ github.repository_owner }}
-        run: node scripts/annotate-pacman-card.mjs
+        run: node scripts/sync-pacman-calendar.mjs
 
       - name: Push SVGs to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
