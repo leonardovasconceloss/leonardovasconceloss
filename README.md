@@ -70,10 +70,7 @@ Parte do meu trabalho mais recente vive em repositórios privados, então este p
 
 ### GitHub
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardovasconceloss&theme=github_dark" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardovasconceloss&theme=github_dark" alt="Linguagens por repositório" />
-</div>
+A maior parte da minha atividade recente está em repositórios privados e de organizações. Por isso, priorizo contexto técnico e projetos públicos selecionados em vez de cards automáticos de estatísticas, que podem distorcer commits e linguagens.
 
 ### Contato
 
