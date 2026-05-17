@@ -4,7 +4,6 @@ Desenvolvedor de software focado em **backend, integrações, automações e IA 
 Atuo em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuindo com APIs, ferramentas internas e soluções que conectam produto, dados e operação.
 
 [![Gmail](https://img.shields.io/badge/-leonardovsestudos@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardovsestudos@gmail.com)
-[![GitHub](https://img.shields.io/badge/-leonardovasconceloss-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/leonardovasconceloss)
 [![Brasil Bitcoin](https://img.shields.io/badge/-Brasil%20Bitcoin-333333?style=flat-square&logo=bitcoin&logoColor=F7931A)](https://brasilbitcoin.com.br/)
 
 ## Sobre mim
@@ -64,8 +63,12 @@ Atuo em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuind
 - [`kodland_python_test`](https://github.com/leonardovasconceloss/kodland_python_test): platformer em Python com PgZero, sprites, mapa editável e estados de jogo.
 - [`meu-projeto-docker`](https://github.com/leonardovasconceloss/meu-projeto-docker): estudos de Python e Docker.
 
-## GitHub
+## Atividade
 
 <p align="center">
-  <img src="./assets/github-contributions.svg?v=2026-152-20260517" alt="Contribuições no GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
+    <img alt="Resumo de atividade" src="./profile-summary-card-output/github/0-profile-details.svg" />
+  </picture>
 </p>
