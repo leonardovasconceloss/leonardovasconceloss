@@ -72,17 +72,12 @@ const updatedAt = new Intl.DateTimeFormat("pt-BR", {
   timeStyle: "short",
 }).format(now);
 
-const visibilityLabel =
-  rolling.restrictedContributions > 0 || currentYear.restrictedContributions > 0
-    ? "publicas + privadas/restritas"
-    : "publicas";
-
 const summaryLine =
-  `${rolling.totalContributions} contribuicoes nos ultimos 12 meses (${visibilityLabel})`;
+  `${rolling.totalContributions} contribuicoes nos ultimos 12 meses ` +
+  "(publicas + privadas/organizacoes)";
 const detailLine =
   `${year}: ${currentYear.totalContributions} contribuicoes - ` +
-  `${currentYear.restrictedContributions} privadas/restritas - ` +
-  `atualizado em ${updatedAt}`;
+  `atualizado em ${updatedAt} via GitHub Actions`;
 
 for (const file of [
   { path: "dist/pacman-contribution-graph.svg", theme: "light" },
