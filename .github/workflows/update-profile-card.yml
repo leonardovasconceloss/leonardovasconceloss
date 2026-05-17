@@ -1,0 +1,49 @@
+name: Update profile contribution card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "24 8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    env:
+      PROFILE_USERNAME: leonardovasconceloss
+      PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+      OUTPUT_PATH: assets/github-contributions.svg
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Skip when token is missing
+        if: env.PROFILE_STATS_TOKEN == ''
+        run: |
+          echo "PROFILE_STATS_TOKEN secret is required to include private and organization contributions."
+          echo "Skipping card update."
+
+      - name: Generate contribution card
+        if: env.PROFILE_STATS_TOKEN != ''
+        run: node scripts/generate-contributions-card.mjs
+
+      - name: Commit updated card
+        if: env.PROFILE_STATS_TOKEN != ''
+        run: |
+          if git diff --quiet -- assets/github-contributions.svg; then
+            echo "Contribution card is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contributions.svg
+          git commit -m "Atualiza card de contribuicoes"
+          git push

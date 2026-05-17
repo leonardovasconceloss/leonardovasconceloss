@@ -73,7 +73,9 @@ Parte do meu trabalho mais recente vive em repositórios privados, então este p
 
 ### GitHub
 
-A maior parte da minha atividade recente está em repositórios privados e de organizações. Por isso, priorizo contexto técnico e projetos públicos selecionados em vez de cards automáticos de estatísticas, que podem distorcer commits e linguagens.
+<div align="center">
+  <img src="./assets/github-contributions.svg" alt="Contribuições no GitHub" />
+</div>
 
 ### Contato
 
