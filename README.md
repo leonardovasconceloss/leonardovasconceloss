@@ -18,7 +18,7 @@
 
 Sou um desenvolvedor que gosta de ligar produto, engenharia e experimentação. No dia a dia trabalho principalmente com backend, integrações, automações e IA aplicada, usando Python, Node.js e JavaScript para criar soluções completas.
 
-Também tenho construído projetos com agentes, MCPs, bots e fluxos de documentação/consulta assistida. Tenho proficiência para atuar em front e back quando o projeto exige uma experiência completa, criando interfaces com HTML, CSS, JavaScript e frameworks como SolidJS ou Alpine.js.
+Também tenho construído projetos com agentes, MCPs, bots e fluxos de documentação/consulta assistida. Tenho proficiência para atuar em front e back quando o projeto exige uma experiência completa, criando interfaces com HTML, CSS, JavaScript/Typescript e frameworks como SolidJS ou Alpine.js.
 
 Eletrônica é um hobby que adquiri durante minha passagem pela faculdade de Engenharia. Gosto de experimentar com protótipos, ESP32 e integração entre hardware e software, mas isso entra mais como curiosidade prática do que como meu foco profissional principal.
 
