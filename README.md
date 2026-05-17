@@ -2,67 +2,64 @@
   <img height="267" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl2OTRteHYwMmhjOWVkMWNsYjAyaWhoMjBhdzlxODA3YXdjcGV1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
 </div>
 
-# Leonardo Vasconcelos
+<h1 align="center">Leonardo Vasconcelos</h1>
 
-Desenvolvedor de software focado em **backend, integrações, automações e IA aplicada**.
+<p align="center">
+  Desenvolvedor de software focado em <strong>backend, integrações, automações e IA aplicada</strong>.
+</p>
+
+<p align="center">
+  <a href="mailto:leonardovsestudos@gmail.com">
+    <img src="https://img.shields.io/badge/-leonardovsestudos@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://brasilbitcoin.com.br/">
+    <img src="https://img.shields.io/badge/-Brasil%20Bitcoin-333333?style=flat-square&logo=bitcoin&logoColor=F7931A" alt="Brasil Bitcoin" />
+  </a>
+</p>
+
 Atuo em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuindo com APIs, ferramentas internas e soluções que conectam produto, dados e operação.
-
-[![Gmail](https://img.shields.io/badge/-leonardovsestudos@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardovsestudos@gmail.com)
-[![Brasil Bitcoin](https://img.shields.io/badge/-Brasil%20Bitcoin-333333?style=flat-square&logo=bitcoin&logoColor=F7931A)](https://brasilbitcoin.com.br/)
 
 ## Sobre mim
 
-- Trabalho principalmente com backend, integrações, automações e IA aplicada.
-- Tenho proficiência para atuar em front e back quando o projeto exige uma experiência completa.
-- Uso Python, Node.js e JavaScript/TypeScript para criar APIs, bots, agentes, MCPs e ferramentas internas.
-- Tenho experiência prática com PostgreSQL e SQLite em projetos, estudos e automações.
-- Eletrônica e IoT são hobbies que vieram da faculdade de Engenharia, com experimentos usando ESP32, Blynk, ponte H e motores DC.
-- Parte relevante da minha atividade recente está em repositórios privados e de organizações.
+```ts
+const leonardo = {
+  atual: "Desenvolvedor em projetos da Brasil Bitcoin",
+  foco: ["backend", "integrações", "automações", "IA aplicada", "APIs"],
+  stackBase: ["Python", "Node.js", "JavaScript/TypeScript"],
+  dados: ["PostgreSQL", "SQLite"],
+  web: ["HTML", "CSS", "SolidJS", "Alpine.js"],
+  laboratorio: "eletrônica e IoT como hobby desde a faculdade de Engenharia",
+  contexto: "parte relevante da atividade recente está em repositórios privados e organizações"
+};
+```
 
-## Skills
+## O que eu construo
 
-**Aplicações e dados**
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-
-**Web e experiência de usuário**
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![SolidJS](https://img.shields.io/badge/-SolidJS-333333?style=flat&logo=solid)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-333333?style=flat&logo=alpinedotjs)
-
-**Ferramentas e ambiente**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-
-**Hobby e laboratório**
-
-![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=espressif)
-![IoT](https://img.shields.io/badge/-IoT-333333?style=flat)
-
-## Linhas de trabalho
-
-| Área | Atuação |
+| Frente | Atuação |
 | --- | --- |
-| Fintech e cripto | APIs, integrações e ferramentas internas no ecossistema Brasil Bitcoin. |
-| IA e automação | Agentes, bots, MCPs, automações com GitHub/Discord e fluxos de consulta/documentação. |
-| Full-stack | Interfaces com HTML, CSS, JavaScript e SolidJS/Alpine.js conectadas a APIs e ferramentas internas. |
-| Banco de dados | Modelagem e uso prático de PostgreSQL e SQLite. |
-| Eletrônica como hobby | Experimentos iniciados na faculdade de Engenharia com ESP32 e prototipagem prática. |
+| Backend e APIs | Serviços, integrações, automações e ferramentas internas. |
+| Fintech e cripto | Soluções conectadas ao ecossistema da Brasil Bitcoin. |
+| IA aplicada | Agentes, bots, MCPs e fluxos com LLMs para consulta, documentação e operação. |
+| Produto e operação | Ferramentas que aproximam dados, processos internos e experiência do usuário. |
+| Full-stack e UX | Interfaces completas com JavaScript/TypeScript, HTML, CSS, SolidJS ou Alpine.js. |
+| Laboratório pessoal | Experimentos de eletrônica e IoT com ESP32, Blynk, ponte H e motores DC. |
+
+## Stack
+
+| Área | Tecnologias |
+| --- | --- |
+| Core | `Python`, `Node.js`, `JavaScript`, `TypeScript` |
+| Backend e APIs | `Django`, integrações, bots, agentes, automações, MCPs |
+| Web | `HTML`, `CSS`, `SolidJS`, `Alpine.js` |
+| Dados | `PostgreSQL`, `SQLite` |
+| Ambiente | `Git`, `GitHub`, `Docker`, `Linux` |
+| Hobby/Lab | `ESP32`, `Blynk`, `IoT`, prototipagem eletrônica |
 
 ## Projetos públicos
 
-- [`project_robotcar_IoT`](https://github.com/leonardovasconceloss/project_robotcar_IoT): carrinho robô IoT com ESP32, Blynk, ponte H L298N e motores DC.
-- [`Blog-django-poo`](https://github.com/leonardovasconceloss/Blog-django-poo): blog em Django com autenticação, comentários e painel administrativo.
-- [`kodland_python_test`](https://github.com/leonardovasconceloss/kodland_python_test): platformer em Python com PgZero, sprites, mapa editável e estados de jogo.
-- [`meu-projeto-docker`](https://github.com/leonardovasconceloss/meu-projeto-docker): estudos de Python e Docker.
+| Projeto | Contexto | Stack |
+| --- | --- | --- |
+| [`project_robotcar_IoT`](https://github.com/leonardovasconceloss/project_robotcar_IoT) | Carrinho robô IoT, parte do meu laboratório pessoal de eletrônica. | ESP32, Blynk, ponte H L298N, motores DC |
+| [`Blog-django-poo`](https://github.com/leonardovasconceloss/Blog-django-poo) | Blog com autenticação, comentários e painel administrativo. | Python, Django |
+| [`kodland_python_test`](https://github.com/leonardovasconceloss/kodland_python_test) | Platformer com sprites, mapa editável e estados de jogo. | Python, PgZero |
+| [`meu-projeto-docker`](https://github.com/leonardovasconceloss/meu-projeto-docker) | Estudos de ambiente e empacotamento para aplicações Python. | Python, Docker |
