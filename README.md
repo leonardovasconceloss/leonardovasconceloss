@@ -67,8 +67,8 @@ Atuo em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuind
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
-    <img alt="Resumo de atividade no GitHub" src="./profile-summary-card-output/github/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </p>
