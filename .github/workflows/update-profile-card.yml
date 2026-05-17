@@ -12,6 +12,7 @@ jobs:
   update-card:
     runs-on: ubuntu-latest
     env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       PROFILE_USERNAME: leonardovasconceloss
       PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
       OUTPUT_PATH: assets/github-contributions.svg
@@ -37,13 +38,13 @@ jobs:
       - name: Commit updated card
         if: env.PROFILE_STATS_TOKEN != ''
         run: |
-          if git diff --quiet -- assets/github-contributions.svg; then
+          if git diff --quiet -- assets/github-contributions.svg README.md; then
             echo "Contribution card is already up to date."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-contributions.svg
+          git add assets/github-contributions.svg README.md
           git commit -m "Atualiza card de contribuicoes"
           git push
