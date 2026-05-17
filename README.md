@@ -70,9 +70,11 @@ Atuo em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuind
 ## Atividade
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph.svg">
-  </picture>
+  <a href="https://github.com/leonardovasconceloss/leonardovasconceloss/actions/workflows/generate-pacman.yml">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leonardovasconceloss/leonardovasconceloss/pacman-output/pacman-contribution-graph.svg">
+    </picture>
+  </a>
 </p>
