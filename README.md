@@ -16,9 +16,9 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor que gosta de ligar produto, engenharia e experimentação. No dia a dia trabalho principalmente com backend, integrações, automações e IA aplicada, usando Python, Node.js e JavaScript/Typescript para criar soluções completas.
+Sou um desenvolvedor que gosta de ligar produto, engenharia e experimentação. No dia a dia trabalho principalmente com backend, integrações, automações e IA aplicada, usando Python, Node.js e JavaScript/TypeScript para criar soluções completas.
 
-Também tenho construído projetos com agentes, MCPs, bots e fluxos de documentação/consulta assistida. Tenho proficiência para atuar em front e back quando o projeto exige uma experiência completa, criando interfaces com HTML, CSS, JavaScript/Typescript e frameworks como SolidJS ou Alpine.js.
+Também tenho construído projetos com agentes, MCPs, bots e fluxos de documentação/consulta assistida. Tenho proficiência para atuar em front e back quando o projeto exige uma experiência completa, criando interfaces com HTML, CSS, JavaScript/TypeScript e frameworks como SolidJS ou Alpine.js.
 
 Eletrônica é um hobby que adquiri durante minha passagem pela faculdade de Engenharia. Gosto de experimentar com protótipos, ESP32 e integração entre hardware e software, mas isso entra mais como curiosidade prática do que como meu foco profissional principal.
 
@@ -28,6 +28,7 @@ Parte do meu trabalho mais recente vive em repositórios privados, então este p
 
 - Desenvolvimento de produtos e integrações no ecossistema Brasil Bitcoin.
 - Backend com Python e Node.js, APIs, automações e serviços internos.
+- Bancos de dados com PostgreSQL e SQLite.
 - IA aplicada: agentes, bots, MCP, automação de issues, GitHub e Discord.
 - Full-stack quando o projeto pede: HTML, CSS, JavaScript, SolidJS/Alpine.js e experiências de usuário para ferramentas internas.
 - Projetos próprios como PrevisaoAI/Oracore, utilitários de contexto e ferramentas para rotina de desenvolvimento.
@@ -45,6 +46,8 @@ Parte do meu trabalho mais recente vive em repositórios privados, então este p
   <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS" />
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=111111" alt="Alpine.js" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
