@@ -74,7 +74,7 @@ Parte do meu trabalho mais recente vive em repositórios privados, então este p
 ### GitHub
 
 <div align="center">
-  <img src="./assets/github-contributions.svg?v=2026-151-20260517" alt="Contribuições no GitHub" />
+  <img src="./assets/github-contributions.svg?v=2026-152-20260517" alt="Contribuições no GitHub" />
 </div>
 
 ### Contato

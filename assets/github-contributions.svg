@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240" role="img" aria-labelledby="title desc">
   <title id="title">Contribuições no GitHub</title>
-  <desc id="desc">151 contribuições em 2026. Atividade recente concentrada em repositórios privados e organizações.</desc>
+  <desc id="desc">152 contribuições em 2026. Atividade recente concentrada em repositórios privados e organizações.</desc>
   <style>
     .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
     .divider { stroke: #30363d; stroke-width: 1; opacity: 0.8; }
@@ -17,7 +17,7 @@
   <rect class="bg" x="0.5" y="0.5" width="759" height="239" rx="12" />
   <text class="title" x="34" y="42">Contribuições no GitHub</text>
   <text class="subtitle" x="34" y="66">Atividade consolidada em 2026</text>
-  <text class="number" x="34" y="138">151</text>
+  <text class="number" x="34" y="138">152</text>
   <text class="label" x="34" y="166">contribuições em 2026</text>
   <text class="note" x="34" y="190">privados, organizações e projetos públicos incluídos</text>
   <line class="divider" x1="370" y1="32" x2="370" y2="208" />
@@ -159,7 +159,7 @@
 <rect x="614" y="132" width="8" height="8" rx="2" fill="#161b22"><title>2026-05-14: 0 contribuições</title></rect>
 <rect x="614" y="143" width="8" height="8" rx="2" fill="#39d353"><title>2026-05-15: 31 contribuições</title></rect>
 <rect x="614" y="154" width="8" height="8" rx="2" fill="#39d353"><title>2026-05-16: 34 contribuições</title></rect>
-<rect x="625" y="88" width="8" height="8" rx="2" fill="#39d353"><title>2026-05-17: 37 contribuições</title></rect>
+<rect x="625" y="88" width="8" height="8" rx="2" fill="#39d353"><title>2026-05-17: 38 contribuições</title></rect>
   <text class="note" x="405" y="190">Atualizado em <tspan class="date">17/05/2026</tspan></text>
   <text class="legend" x="405" y="216">menos</text>
   <rect x="450" y="206" width="8" height="8" rx="2" fill="#161b22" />
