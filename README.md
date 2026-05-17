@@ -54,12 +54,3 @@ const leonardo = {
 | Dados | `PostgreSQL`, `SQLite` |
 | Ambiente | `Git`, `GitHub`, `Docker`, `Linux` |
 | Hobby/Lab | `ESP32`, `Blynk`, `IoT`, prototipagem eletrônica |
-
-## Projetos públicos
-
-| Projeto | Contexto | Stack |
-| --- | --- | --- |
-| [`project_robotcar_IoT`](https://github.com/leonardovasconceloss/project_robotcar_IoT) | Carrinho robô IoT, parte do meu laboratório pessoal de eletrônica. | ESP32, Blynk, ponte H L298N, motores DC |
-| [`Blog-django-poo`](https://github.com/leonardovasconceloss/Blog-django-poo) | Blog com autenticação, comentários e painel administrativo. | Python, Django |
-| [`kodland_python_test`](https://github.com/leonardovasconceloss/kodland_python_test) | Platformer com sprites, mapa editável e estados de jogo. | Python, PgZero |
-| [`meu-projeto-docker`](https://github.com/leonardovasconceloss/meu-projeto-docker) | Estudos de ambiente e empacotamento para aplicações Python. | Python, Docker |
