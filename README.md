@@ -23,7 +23,6 @@ Atuei por dois anos em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br
 
 ```ts
 const leonardo = {
-  atual: "Desenvolvedor em projetos da Brasil Bitcoin",
   foco: ["backend", "integrações", "automações", "IA aplicada", "APIs"],
   stackBase: ["Python", "Node.js", "JavaScript/TypeScript"],
   dados: ["PostgreSQL", "SQLite"],
