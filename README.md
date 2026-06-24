@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:leonardovsestudos@gmail.com">
-    <img src="https://img.shields.io/badge/-leonardovsestudos@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-leonardovasconcelos190@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
