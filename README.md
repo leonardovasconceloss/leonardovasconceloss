@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Atuo em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuindo com APIs, ferramentas internas e soluções que conectam produto, dados e operação.
+Atuei por dois anos em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuindo com APIs, ferramentas internas e soluções que conectam produto, dados e operação. Atualmente sigo em busca de novos desafios.
 
 ## Sobre mim
 
