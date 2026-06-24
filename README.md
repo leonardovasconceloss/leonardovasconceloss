@@ -5,7 +5,7 @@
 <h1 align="center">Leonardo Vasconcelos</h1>
 
 <p align="center">
-  Desenvolvedor de software focado em <strong>backend, integrações, automações e IA aplicada</strong>.
+  Desenvolvedor de software fullstack <strong>frontend, backend, integrações, automações e IA aplicada</strong>.
 </p>
 
 <p align="center">
