@@ -12,9 +12,6 @@
   <a href="mailto:leonardovsestudos@gmail.com">
     <img src="https://img.shields.io/badge/-leonardovsestudos@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://brasilbitcoin.com.br/">
-    <img src="https://img.shields.io/badge/-Brasil%20Bitcoin-333333?style=flat-square&logo=bitcoin&logoColor=F7931A" alt="Brasil Bitcoin" />
-  </a>
 </p>
 
 Atuei por dois anos em projetos da [Brasil Bitcoin](https://brasilbitcoin.com.br/), contribuindo com APIs, ferramentas internas e soluções que conectam produto, dados e operação. Atualmente sigo em busca de novos desafios.
